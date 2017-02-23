@@ -12,4 +12,4 @@ ln -s jruby-1.7.16{,--1.8}
 Simply clone the repository into the plugins directory:
 
     mkdir -p "$(rbenv root)"/plugins
-    git clone https://github.com/toy/rbenv-jruby-mode.git "$(rbenv root)"/plugins/rbenv-jruby-mode
+    git clone https://github.com/toy/rbenv-jruby-mode.git "$(rbenv root)"/plugins/jruby-mode
